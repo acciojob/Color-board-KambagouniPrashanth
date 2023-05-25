@@ -10,10 +10,10 @@
 .container .square{
     width: 10px;
     height:10px;
-    background-color:rgb(29, 29, 29);
+    background-color:rgb(29,29,29);
    
 }
 .square:hover{
-    background-color: rgb(29, 29, 29);
+    background-color: rgb(29,29,29);
 	 transition: 1s;
 }
